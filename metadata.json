@@ -1,0 +1,6 @@
+{
+  "name": "CloudPulse Infrastructure & Compute Catalog",
+  "description": "Explore big-picture cloud infrastructure resources, compute benchmarks, and transparent face-value catalog pricing with interactive architecture modeling and AI vision analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
